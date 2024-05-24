@@ -28,7 +28,7 @@ check out my portfolio website : https://parth002933v.github.io/
 
 ###
 
-<p align="left">I'm from India <br><br>- 🎓 I’m a 2nd year college student<br>- 📚 I'm currently learning Flutter and Node js<br>- ⚡ In my free time I sleep</p>
+<p align="left">I'm from India <br><br>- 🎓 I’m a 2nd year college student<br>- 📚 I'm currently learning Flutter and Node js<br>-</p>
 
 ###
 
