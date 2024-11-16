@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm from India <br><br>- 🎓 I’m a 2nd year college student<br>- 📚 I'm currently learning Mern stack and GoLang<br></p>
+<p align="left">I'm from India <br><br>- 🎓 I’m a 3nd year college student<br>- 📚 I'm currently learning Mern stack and GoLang<br></p>
 
 ###
 
